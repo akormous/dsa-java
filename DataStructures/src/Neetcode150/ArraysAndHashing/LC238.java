@@ -1,4 +1,4 @@
-package Neetcode150;
+package Neetcode150.ArraysAndHashing;
 
 public class LC238 {
     public int[] productExceptSelf(int[] nums) {

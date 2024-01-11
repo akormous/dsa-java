@@ -1,4 +1,4 @@
-package Neetcode150;
+package Neetcode150.ArraysAndHashing;
 
 public class LC36 {
     public boolean isValidSudoku(char[][] board) {
